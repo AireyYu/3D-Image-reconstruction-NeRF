@@ -124,7 +124,6 @@ class GetRays():
         Ray_ori original point
         Ray_dir set of direction vector
         sampled_p sampled points
-        xwywzw shape: (num_rays, num_sample_point, 3, 2) 2 means two points forward and behind sample point
         """
 
         # addition to last axis(axis = -1), direction vector of the ray
