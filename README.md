@@ -9,3 +9,4 @@ Initial image size: 800x800
 
 Tip: Close all other running software to provide maximum RAM. 
 
+![image](https://user-images.githubusercontent.com/128177578/226227254-fcd91a17-f713-4aaf-868d-1cda95a6c07c.png)
