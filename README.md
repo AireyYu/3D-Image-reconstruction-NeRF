@@ -5,4 +5,6 @@ Notably, coarse model and fine model just the final models after training, it mi
 
 16 G RAM ----->  80x80 image resolution set (The size of images are flexible , depend on your own device, server will be better.)
 
+Initial image size: 800x800
+
 Tip: Close all other running software to provide maximum RAM. 
