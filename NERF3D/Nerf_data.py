@@ -80,7 +80,7 @@ class GetImages:
 # -----------------------------------------------------------------------------------
 
 
-class GetRays():
+class GetRays:
     def __init__(self, camera_focal, image_width, image_height, near_boundary, far_boundary, num_sample_coarse):
 
         self.camera_focal = camera_focal
