@@ -8,3 +8,4 @@ Notably, coarse model and fine model just the final models after training, it mi
 Initial image size: 800x800
 
 Tip: Close all other running software to provide maximum RAM. 
+
